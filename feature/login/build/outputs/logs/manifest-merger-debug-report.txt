@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml:2:13-83
+INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml:2:13-83
+INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml:2:13-83
+	package
+		INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+		ADDED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml:2:13-83
+		INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+	xmlns:android
+		ADDED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml:2:23-81
+uses-sdk
+INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml reason: use-sdk injection requested
+INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+		ADDED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+		INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+	android:minSdkVersion
+		INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+		ADDED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml
+		INJECTED from /Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10411796203753388424.xml

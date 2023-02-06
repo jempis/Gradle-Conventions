@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication.feature.login" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+5-->/Users/andreabriasco/MyApplication/feature/login/build/intermediates/tmp/ProcessLibraryManifest/dev/debug/tempAndroidManifest17007943889334763100.xml
+6
+7</manifest>
